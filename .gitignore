@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build and distribution artifacts
+dist/
+build/
+.next/
+out/
+
+# Environment configurations & secrets
+.env
+.env.*
+!.env.example
+!.env.template
+
+# System & OS files
+.DS_Store
+Thumbs.db
+*__MACOSX*
+
+# Local data & logs
+.data/
+.cache/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Test coverage
+coverage/
+.turbo/

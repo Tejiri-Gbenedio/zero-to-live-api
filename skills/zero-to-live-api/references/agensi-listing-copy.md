@@ -97,3 +97,4 @@ Yes! The skill prioritizes scanning your existing UI components, forms, and fetc
 
 **Q: How does the self-healing loop work?**
 The agent executes the bundled `verify-api.sh` script against a local server instance. If an endpoint throws an error or fails validation, the agent reads the terminal output, patches the code, and re-tests until all endpoints return 200/201 or 400 as expected.
+

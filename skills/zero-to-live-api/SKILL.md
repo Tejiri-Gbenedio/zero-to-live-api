@@ -130,3 +130,4 @@ Create an `API_PLAYBOOK.md` in the project root containing:
 2. **1-Line Frontend Example:** Show how to import `api` and trigger the endpoint.
 3. **cURL Commands:** Copy-pasteable terminal commands to test live endpoints.
 4. **Deploy Command:** Single terminal command (e.g., `npx vercel deploy` or `npx wrangler deploy`).
+

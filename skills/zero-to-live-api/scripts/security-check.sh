@@ -138,3 +138,4 @@ fi
 
 echo "Security audit PASSED with zero critical vulnerabilities."
 exit 0
+
